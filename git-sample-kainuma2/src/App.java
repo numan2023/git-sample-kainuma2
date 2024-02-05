@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("1: aaa\n2: bbb\n3: ccc\n");
+        System.out.println("1: kkk\n2: ooo\n3: ggg\n");
     }
 }
